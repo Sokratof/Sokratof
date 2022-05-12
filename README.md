@@ -1,17 +1,20 @@
 <p align='center'>
-<a href="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"><img
-         height=400 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"/></a>
+<a href="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"><img
+         height=200 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"/></a>
  </p>
-
+ 
+ <h1 align="center"> Hi! My name is Eugeniy! I'm junior engineer QA!
+ </h1>
+ 
 ____________
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Sokratof&hide=stars,issues,contribs,prs&theme=dark"><img
            height=100 src="https://github-readme-stats.vercel.app/api?username=Sokratof&hide=stars,issues,contribs,prs&theme=dark"/></a>
    </p>
-   Note. I deleted a lot of old repositories, because I don't like them
- 
- ____________
+   <h3 align="center"> Note. I deleted old repositories, because I don't like them
+         </h3>
+  ____________
 
 ### 💪🏻 HARD SKILLS
 * Software testing theory
