@@ -1,15 +1,17 @@
-### HELLO
+<p align='center'>
+<a href="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"><img
+         height=400 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"/></a>
+ </p>
 
-[![Sokratof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sokratof&hide=stars,issues,contribs,prs&theme=dark)](https://github.com/Sokratof/github-readme-stats)
-
+____________
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Sokratof&hide=stars,issues,contribs,prs&theme=dark"><img
-           height=150 src="https://github-readme-stats.vercel.app/api?username=Sokratof&hide=stars,issues,contribs,prs&theme=dark"/></a>
-   <a href="https://github.com/rSokratof/github-readme-stats">
-     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sokratof&layout=compact&theme=dark"/></a>
-</p>
-
+           height=100 src="https://github-readme-stats.vercel.app/api?username=Sokratof&hide=stars,issues,contribs,prs&theme=dark"/></a>
+   </p>
+   Note. I deleted a lot of old repositories, because I don't like them
+ 
+ ____________
 
 ### 💪🏻 HARD SKILLS
 * Software testing theory
@@ -21,6 +23,7 @@
 * SQL (including JOIN)
 * English B1-B2
 * I’m currently learning automatization of testing on Java and load testing (capacity testing)
+____________
 
 ### 🙏🏻 SOFT SKILLS
 * Analytical skills
@@ -29,15 +32,11 @@
 * Sociability
 * Ready for irregular work hours
 * Desire to develop professional skills
-
+____________
 
 <p align='center'>
-📨 How to reach me: <a href = 'mailto:SokratovEA@gmail.com'>SokratovEA@gmail.com</a>
+📥 How to reach me: <a href = 'mailto:SokratovEA@gmail.com'>SokratovEA@gmail.com</a>
 </p>
-
-
-
-
 
 
 <!-- //статистика посещения аккаунта//
