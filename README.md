@@ -3,7 +3,7 @@
 <!--
 **Sokratof/Sokratof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Sokratof's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSokratof)](https://github.com/Sokratof/github-readme-stats)
+[![Sokratof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sokratof)](https://github.com/Sokratof/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
