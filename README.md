@@ -3,7 +3,7 @@
          height=200 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"/></a>
  </p>
  
- <h1 align="center"> Hi! My name is Eugeniy! I'm junior engineer QA!
+ <h1 align="center"> Hi! My name is Eugeniy! I'm junior QA engineer!
  </h1>
  
 ____________
@@ -21,6 +21,7 @@ ____________
 * Test documentation
 * DevTools
 * API. REST/SOAP
+* Fiddler, WireShark
 * Basic of Java
 * Jira/Confluence
 * SQL (including JOIN)
