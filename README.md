@@ -3,7 +3,7 @@
          height=200 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&animation=scaleIn"/></a>
  </p>
  
- <h1 align="center"> Hi! My name is Eugeniy! I'm junior QA engineer!
+ <h1 align="center"> Hi! My name is Eugeniy! I'm QA engineer!
  </h1>
  
 ____________
